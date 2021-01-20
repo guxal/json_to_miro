@@ -42,7 +42,7 @@ use this script to convert json format to graphics on miro.com
 ```
 
 ## Result 
-
+![result json](https://raw.githubusercontent.com/guxal/json_to_miro/main/img/jsonmiro.png)
 
 ## How to Use
 
